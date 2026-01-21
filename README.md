@@ -1,4 +1,4 @@
-# PacManAgent
+# Pacman Agent
 
 A Python Pacman-style **grid simulation** with a simple **utility-based agent**.
 
